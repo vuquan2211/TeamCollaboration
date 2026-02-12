@@ -1,0 +1,238 @@
+----- AUDIT ENTRY -----
+Time: 2026-02-09 19:17:21
+User: vu.nguyen
+Role: Admin
+File: group2.txt
+Backup: history\group2_20260209_191721.txt
+Diff:
+--- before
++++ after
+@@ -4,3 +4,7 @@
+ ethan.vandewoestyne		editor
+ chris.findlay		viewer
+ earl.grande		viewer
++
++
++
++hello
+-----------------------
+----- AUDIT ENTRY -----
+Time: 2026-02-09 19:21:29
+User: vu.nguyen
+Role: Admin
+File: group2.txt
+Backup: history\group2_20260209_192129.txt
+Diff:
+--- before
++++ after
+@@ -7,4 +7,4 @@
+ 
+ 
+ 
+-hello
++
+-----------------------
+----- AUDIT ENTRY -----
+Time: 2026-02-09 22:01:24
+User: vu.nguyen
+Role: Admin
+File: group1.txt
+Backup: history\group1_20260209_220124.txt
+Diff:
+No changes.
+-----------------------
+----- AUDIT ENTRY -----
+Time: 2026-02-09 22:04:06
+User: vu.nguyen
+Role: Admin
+File: group5.txt
+Backup: history\group5_20260209_220406.txt
+Diff:
+No changes.
+-----------------------
+----- AUDIT ENTRY -----
+Time: 2026-02-09 22:04:24
+User: vu.nguyen
+Role: Admin
+File: group1.txt
+Backup: history\group1_20260209_220424.txt
+Diff:
+No changes.
+-----------------------
+----- AUDIT ENTRY -----
+Time: 2026-02-09 22:08:40
+User: enerel.baatarsuren
+Role: Student
+File: group2.txt
+Backup: history\group2_20260209_220840.txt
+Diff:
+--- before
++++ after
+@@ -8,3 +8,4 @@
+ 
+ 
+ 
++Hello
+-----------------------
+----- AUDIT ENTRY -----
+Time: 2026-02-09 22:33:36
+User: nida.aamir
+Role: Student
+File: group1.txt
+Backup: history\group1_20260209_223336.txt
+Diff:
+--- before
++++ after
+@@ -5,3 +5,4 @@
+ paukelly.bekombepaukelly		viewer
+ tom.byles		viewer
+ 
++Hello
+-----------------------
+----- AUDIT ENTRY -----
+Time: 2026-02-10 05:45:21
+User: vu.nguyen
+Role: Student
+File: C:\SAIT\CMPS-3000\Group2\group2.txt
+Backup: C:\SAIT\CMPS-3000\Group2\group2_20260210_054521.txt
+Diff:
+--- before
++++ after
+@@ -8,4 +8,3 @@
+ 
+ 
+ 
+-Hello
+-----------------------
+----- AUDIT ENTRY -----
+Time: 2026-02-10 05:51:45
+User: zumar.syedbukhari
+Role: Student
+File: C:\SAIT\CMPS-3000\Group2\group5.txt
+Backup: C:\SAIT\CMPS-3000\Group2\group5_20260210_055145.txt
+Diff:
+--- before
++++ after
+@@ -4,3 +4,9 @@
+ kalebstuart.stuart		editor
+ zumar.syedbukhari		viewer
+ vaidik.tailor		viewer
++
++
++
++
++
++Hello
+-----------------------
+----- AUDIT ENTRY -----
+Time: 2026-02-10 05:52:50
+User: zumar.syedbukhari
+Role: Student
+File: C:\SAIT\CMPS-3000\Group2\group5.txt
+Backup: C:\SAIT\CMPS-3000\Group2\group5_20260210_055250.txt
+Diff:
+--- before
++++ after
+@@ -9,4 +9,3 @@
+ 
+ 
+ 
+-Hello
+-----------------------
+----- AUDIT ENTRY -----
+Time: 2026-02-10 05:55:18
+User: vu.nguyen
+Role: Student
+File: C:\SAIT\CMPS-3000\Group2\group2.txt
+Backup: C:\SAIT\CMPS-3000\Group2\group2_20260210_055518.txt
+Diff:
+--- before
++++ after
+@@ -8,3 +8,4 @@
+ 
+ 
+ 
++Heloo
+-----------------------
+----- AUDIT ENTRY -----
+Time: 2026-02-10 06:18:52
+User: omar.wahdan
+Role: Instructor
+File: group6.txt
+Backup: C:\SAIT\CMPS-3000\Group2\history\group6_20260210_061852.txt
+Diff:
+--- before
++++ after
+@@ -4,3 +4,7 @@
+ chris.thodas		editor
+ thomas.thorpe		viewer
+ marcus.valdez		viewer
++
++
++
++123
+-----------------------
+----- AUDIT ENTRY -----
+Time: 2026-02-10 09:59:53
+User: vu.nguyen
+Role: Student
+File: group2.txt
+Backup: C:\SAIT\CMPS-3000\Group2\history\group2_20260210_095953.txt
+Diff:
+--- before
++++ after
+@@ -9,3 +9,4 @@
+ 
+ 
+ Heloo
++ hi, my name Vu
+-----------------------
+----- AUDIT ENTRY -----
+Time: 2026-02-10 11:23:02
+User: vu.nguyen
+Role: Student
+File: group2.txt
+Backup: C:\SAIT\CMPS-3000\Group2\history\group2_20260210_112302.txt
+Diff:
+--- before
++++ after
+@@ -9,4 +9,4 @@
+ 
+ 
+ Heloo
+- hi, my name Vu
++ hi, my name Vu Great
+-----------------------
+----- AUDIT ENTRY -----
+Time: 2026-02-10 11:36:12
+User: vu.nguyen
+Role: Student
+File: group2.txt
+Backup: C:\SAIT\CMPS-3000\Group2\history\group2_20260210_113612.txt
+Diff:
+--- before
++++ after
+@@ -10,3 +10,6 @@
+ 
+ Heloo
+  hi, my name Vu Great
++
++
++Hello
+-----------------------
+----- AUDIT ENTRY -----
+Time: 2026-02-10 11:45:32
+User: vu.nguyen
+Role: Student
+File: group2.txt
+Backup: C:\SAIT\CMPS-3000\Group2\history\group2_20260210_114532.txt
+Diff:
+--- before
++++ after
+@@ -12,4 +12,4 @@
+  hi, my name Vu Great
+ 
+ 
+-Hello
++Hello/hghfghfghf
+-----------------------
