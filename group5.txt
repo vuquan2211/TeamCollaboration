@@ -1,0 +1,11 @@
+Group: group5
+===================================
+melody.shih		admin
+kalebstuart.stuart		editor
+zumar.syedbukhari		viewer
+vaidik.tailor		viewer
+
+
+
+
+

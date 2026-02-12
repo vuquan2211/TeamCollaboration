@@ -1,0 +1,6 @@
+Group: group4
+===================================
+matthew.yee		admin
+veer.rajgor		editor
+jordanrilling.rilling		viewer
+aariyana.sayani		viewer

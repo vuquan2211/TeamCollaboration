@@ -1,0 +1,220 @@
+{
+  "users": [
+    {
+      "login": "omar.wahdan",
+      "first_name": "Omar",
+      "last_name": "Wahdan",
+      "role": "Instructor",
+      "group": null,
+      "password": "pass"
+    },
+    {
+      "login": "vu.nguyen",
+      "first_name": "Vu Quan",
+      "last_name": "Nguyen",
+      "role": "Student",
+      "group": 2.0,
+      "password": "pass"
+    },
+    {
+      "login": "dhan",
+      "first_name": null,
+      "last_name": "Dhan",
+      "role": "Student",
+      "group": 6.0,
+      "password": "pass"
+    },
+    {
+      "login": "nida.aamir",
+      "first_name": "Nida",
+      "last_name": "Aamir",
+      "role": "Student",
+      "group": 1.0,
+      "password": "pass"
+    },
+    {
+      "login": "josh.arial",
+      "first_name": "Josh",
+      "last_name": "Arial",
+      "role": "Student",
+      "group": 1.0,
+      "password": "pass"
+    },
+    {
+      "login": "enerel.baatarsuren",
+      "first_name": "Enerel",
+      "last_name": "Baatarsuren",
+      "role": "Student",
+      "group": 2.0,
+      "password": "pass"
+    },
+    {
+      "login": "paukelly.bekombepaukelly",
+      "first_name": "Paukelly",
+      "last_name": "Bekombe Paukelly",
+      "role": "Student",
+      "group": 1.0,
+      "password": "pass"
+    },
+    {
+      "login": "tom.byles",
+      "first_name": "Tom",
+      "last_name": "Byles",
+      "role": "Student",
+      "group": 1.0,
+      "password": "pass"
+    },
+    {
+      "login": "martin.contreras",
+      "first_name": "Martin",
+      "last_name": "Contreras",
+      "role": "Student",
+      "group": 3.0,
+      "password": "pass"
+    },
+    {
+      "login": "destiny.cooper",
+      "first_name": "Destiny",
+      "last_name": "Cooper",
+      "role": "Student",
+      "group": 3.0,
+      "password": "pass"
+    },
+    {
+      "login": "justin.creig",
+      "first_name": "Justin",
+      "last_name": "Creig",
+      "role": "Student",
+      "group": 3.0,
+      "password": "pass"
+    },
+    {
+      "login": "ayden.crumb",
+      "first_name": "Ayden",
+      "last_name": "Crumb",
+      "role": "Student",
+      "group": 3.0,
+      "password": "pass"
+    },
+    {
+      "login": "ethan.vandewoestyne",
+      "first_name": "Ethan",
+      "last_name": "Van De Woestyne",
+      "role": "Student",
+      "group": 2.0,
+      "password": "pass"
+    },
+    {
+      "login": "matthew.yee",
+      "first_name": "Matthew",
+      "last_name": "Yee",
+      "role": "Student",
+      "group": 4.0,
+      "password": "pass"
+    },
+    {
+      "login": "veer.rajgor",
+      "first_name": "Veer",
+      "last_name": "Rajgor",
+      "role": "Student",
+      "group": 4.0,
+      "password": "pass"
+    },
+    {
+      "login": "jordanrilling.rilling",
+      "first_name": "Jordan Rilling",
+      "last_name": "Rilling",
+      "role": "Student",
+      "group": 4.0,
+      "password": "pass"
+    },
+    {
+      "login": "aariyana.sayani",
+      "first_name": "Aariyana",
+      "last_name": "Sayani",
+      "role": "Student",
+      "group": 4.0,
+      "password": "pass"
+    },
+    {
+      "login": "melody.shih",
+      "first_name": "Melody",
+      "last_name": "Shih",
+      "role": "Student",
+      "group": 5.0,
+      "password": "pass"
+    },
+    {
+      "login": "kalebstuart.stuart",
+      "first_name": "Kaleb Stuart",
+      "last_name": "Stuart",
+      "role": "Student",
+      "group": 5.0,
+      "password": "pass"
+    },
+    {
+      "login": "zumar.syedbukhari",
+      "first_name": "Zumar",
+      "last_name": "Syed Bukhari",
+      "role": "Student",
+      "group": 5.0,
+      "password": "pass"
+    },
+    {
+      "login": "vaidik.tailor",
+      "first_name": "Vaidik",
+      "last_name": "Tailor",
+      "role": "Student",
+      "group": 5.0,
+      "password": "pass"
+    },
+    {
+      "login": "chris.thodas",
+      "first_name": "Chris",
+      "last_name": "Thodas",
+      "role": "Student",
+      "group": 6.0,
+      "password": "pass"
+    },
+    {
+      "login": "thomas.thorpe",
+      "first_name": "Thomas",
+      "last_name": "Thorpe",
+      "role": "Student",
+      "group": 6.0,
+      "password": "pass"
+    },
+    {
+      "login": "marcus.valdez",
+      "first_name": "Marcus",
+      "last_name": "Valdez",
+      "role": "Student",
+      "group": 6.0,
+      "password": "pass"
+    },
+    {
+      "login": "chris.findlay",
+      "first_name": "Chris",
+      "last_name": "Findlay",
+      "role": "Student",
+      "group": 2.0,
+      "password": "pass"
+    },
+    {
+      "login": "earl.grande",
+      "first_name": "Earl",
+      "last_name": "Grande",
+      "role": "Student",
+      "group": 2.0,
+      "password": "pass"
+    },
+    {
+      "login": "admin",
+      "first_name": "Admin",
+      "last_name": "User",
+      "role": "Admin",
+      "group": null,
+      "password": "pass"
+    }
+  ]
+}

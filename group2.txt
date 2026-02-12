@@ -1,0 +1,15 @@
+Group: group2
+===================================
+enerel.baatarsuren		admin
+ethan.vandewoestyne		editor
+chris.findlay		viewer
+earl.grande		viewer
+
+
+
+
+Heloo
+ hi, my name Vu Great
+
+
+Hello/hghfghfghf

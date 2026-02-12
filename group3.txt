@@ -1,0 +1,6 @@
+Group: group3
+===================================
+martin.contreras		admin
+destiny.cooper		editor
+justin.creig		viewer
+ayden.crumb		viewer
